@@ -7,3 +7,4 @@ huggingface_hub
 sentencepiece
 protobuf==3.20.*
 timm
+Pillow==8.3.2
